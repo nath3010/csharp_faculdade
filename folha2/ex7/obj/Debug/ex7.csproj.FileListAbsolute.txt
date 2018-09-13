@@ -1,0 +1,7 @@
+D:\lpe\exerci\folha2ex2\ex7\bin\Debug\ex7.exe.config
+D:\lpe\exerci\folha2ex2\ex7\bin\Debug\ex7.exe
+D:\lpe\exerci\folha2ex2\ex7\bin\Debug\ex7.pdb
+D:\lpe\exerci\folha2ex2\ex7\obj\Debug\ex7.csprojAssemblyReference.cache
+D:\lpe\exerci\folha2ex2\ex7\obj\Debug\ex7.csproj.CoreCompileInputs.cache
+D:\lpe\exerci\folha2ex2\ex7\obj\Debug\ex7.exe
+D:\lpe\exerci\folha2ex2\ex7\obj\Debug\ex7.pdb

@@ -1,0 +1,7 @@
+D:\lpe\exerci\ex_lpa_noc#\ex_lpa\anobissexto\obj\Debug\anobissexto.csprojAssemblyReference.cache
+D:\lpe\exerci\ex_lpa_noc#\ex_lpa\anobissexto\obj\Debug\anobissexto.csproj.CoreCompileInputs.cache
+D:\lpe\exerci\ex_lpa_noc#\ex_lpa\anobissexto\bin\Debug\anobissexto.exe.config
+D:\lpe\exerci\ex_lpa_noc#\ex_lpa\anobissexto\bin\Debug\anobissexto.exe
+D:\lpe\exerci\ex_lpa_noc#\ex_lpa\anobissexto\bin\Debug\anobissexto.pdb
+D:\lpe\exerci\ex_lpa_noc#\ex_lpa\anobissexto\obj\Debug\anobissexto.exe
+D:\lpe\exerci\ex_lpa_noc#\ex_lpa\anobissexto\obj\Debug\anobissexto.pdb

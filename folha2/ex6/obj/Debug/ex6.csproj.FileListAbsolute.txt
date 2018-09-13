@@ -1,0 +1,6 @@
+D:\lpe\exerci\folha2ex2\ex6\obj\Debug\ex6.csproj.CoreCompileInputs.cache
+D:\lpe\exerci\folha2ex2\ex6\bin\Debug\ex6.exe.config
+D:\lpe\exerci\folha2ex2\ex6\bin\Debug\ex6.exe
+D:\lpe\exerci\folha2ex2\ex6\bin\Debug\ex6.pdb
+D:\lpe\exerci\folha2ex2\ex6\obj\Debug\ex6.exe
+D:\lpe\exerci\folha2ex2\ex6\obj\Debug\ex6.pdb

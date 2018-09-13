@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2008\Projects\folha2ex2\ex2\bin\Release\ex2.exe
+E:\Documents\Visual Studio 2008\Projects\folha2ex2\ex2\bin\Release\ex2.pdb
+E:\Documents\Visual Studio 2008\Projects\folha2ex2\ex2\obj\Release\ResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2008\Projects\folha2ex2\ex2\obj\Release\ex2.exe
+E:\Documents\Visual Studio 2008\Projects\folha2ex2\ex2\obj\Release\ex2.pdb

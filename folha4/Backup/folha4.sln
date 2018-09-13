@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex2", "folha4\ex2.csproj", "{C1DD0FC0-F2C3-4786-9EDA-679CDFC9861E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex3", "ex3\ex3.csproj", "{D38FEB2E-EA64-4FC6-B335-E168456A0F4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex4", "ex4\ex4.csproj", "{38DD7B59-4B95-4CBB-8720-BF19C8B1F22F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1DD0FC0-F2C3-4786-9EDA-679CDFC9861E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1DD0FC0-F2C3-4786-9EDA-679CDFC9861E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1DD0FC0-F2C3-4786-9EDA-679CDFC9861E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1DD0FC0-F2C3-4786-9EDA-679CDFC9861E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D38FEB2E-EA64-4FC6-B335-E168456A0F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38FEB2E-EA64-4FC6-B335-E168456A0F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38FEB2E-EA64-4FC6-B335-E168456A0F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38FEB2E-EA64-4FC6-B335-E168456A0F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38DD7B59-4B95-4CBB-8720-BF19C8B1F22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38DD7B59-4B95-4CBB-8720-BF19C8B1F22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38DD7B59-4B95-4CBB-8720-BF19C8B1F22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38DD7B59-4B95-4CBB-8720-BF19C8B1F22F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

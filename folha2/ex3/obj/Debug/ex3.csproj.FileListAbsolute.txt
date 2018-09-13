@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2008\Projects\folha2ex2\ex3\bin\Debug\ex3.exe
+E:\Documents\Visual Studio 2008\Projects\folha2ex2\ex3\bin\Debug\ex3.pdb
+E:\Documents\Visual Studio 2008\Projects\folha2ex2\ex3\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2008\Projects\folha2ex2\ex3\obj\Debug\ex3.exe
+E:\Documents\Visual Studio 2008\Projects\folha2ex2\ex3\obj\Debug\ex3.pdb

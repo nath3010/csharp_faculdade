@@ -1,0 +1,5 @@
+F:\lpe\exerci\folha3\folha3\bin\Debug\folha3.exe
+F:\lpe\exerci\folha3\folha3\bin\Debug\folha3.pdb
+F:\lpe\exerci\folha3\folha3\obj\Debug\ResolveAssemblyReference.cache
+F:\lpe\exerci\folha3\folha3\obj\Debug\folha3.exe
+F:\lpe\exerci\folha3\folha3\obj\Debug\folha3.pdb

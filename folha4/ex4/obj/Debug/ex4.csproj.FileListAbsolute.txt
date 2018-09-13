@@ -1,0 +1,5 @@
+F:\folha4\ex4\obj\Debug\ResolveAssemblyReference.cache
+F:\folha4\ex4\bin\Debug\ex4.exe
+F:\folha4\ex4\bin\Debug\ex4.pdb
+F:\folha4\ex4\obj\Debug\ex4.exe
+F:\folha4\ex4\obj\Debug\ex4.pdb

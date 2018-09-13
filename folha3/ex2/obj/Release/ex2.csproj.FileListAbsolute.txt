@@ -1,0 +1,5 @@
+F:\lpe\exerci\folha3\ex2\bin\Release\ex2.exe
+F:\lpe\exerci\folha3\ex2\bin\Release\ex2.pdb
+F:\lpe\exerci\folha3\ex2\obj\Release\ResolveAssemblyReference.cache
+F:\lpe\exerci\folha3\ex2\obj\Release\ex2.exe
+F:\lpe\exerci\folha3\ex2\obj\Release\ex2.pdb
