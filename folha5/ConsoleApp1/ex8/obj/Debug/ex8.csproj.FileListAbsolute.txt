@@ -1,0 +1,6 @@
+D:\lpe\exerci\folha5\ConsoleApp1\ex8\bin\Debug\ex8.exe.config
+D:\lpe\exerci\folha5\ConsoleApp1\ex8\bin\Debug\ex8.exe
+D:\lpe\exerci\folha5\ConsoleApp1\ex8\bin\Debug\ex8.pdb
+D:\lpe\exerci\folha5\ConsoleApp1\ex8\obj\Debug\ex8.csproj.CoreCompileInputs.cache
+D:\lpe\exerci\folha5\ConsoleApp1\ex8\obj\Debug\ex8.exe
+D:\lpe\exerci\folha5\ConsoleApp1\ex8\obj\Debug\ex8.pdb

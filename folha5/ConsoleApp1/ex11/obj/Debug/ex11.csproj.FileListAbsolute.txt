@@ -1,0 +1,7 @@
+D:\lpe\exerci\folha5\ConsoleApp1\ex11\bin\Debug\ex11.exe.config
+D:\lpe\exerci\folha5\ConsoleApp1\ex11\bin\Debug\ex11.exe
+D:\lpe\exerci\folha5\ConsoleApp1\ex11\bin\Debug\ex11.pdb
+D:\lpe\exerci\folha5\ConsoleApp1\ex11\obj\Debug\ex11.csprojAssemblyReference.cache
+D:\lpe\exerci\folha5\ConsoleApp1\ex11\obj\Debug\ex11.csproj.CoreCompileInputs.cache
+D:\lpe\exerci\folha5\ConsoleApp1\ex11\obj\Debug\ex11.exe
+D:\lpe\exerci\folha5\ConsoleApp1\ex11\obj\Debug\ex11.pdb

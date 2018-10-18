@@ -1,0 +1,7 @@
+D:\lpe\exerci\folha5\ConsoleApp1\15\bin\Debug\15.exe.config
+D:\lpe\exerci\folha5\ConsoleApp1\15\bin\Debug\15.exe
+D:\lpe\exerci\folha5\ConsoleApp1\15\bin\Debug\15.pdb
+D:\lpe\exerci\folha5\ConsoleApp1\15\obj\Debug\15.csprojAssemblyReference.cache
+D:\lpe\exerci\folha5\ConsoleApp1\15\obj\Debug\15.csproj.CoreCompileInputs.cache
+D:\lpe\exerci\folha5\ConsoleApp1\15\obj\Debug\15.exe
+D:\lpe\exerci\folha5\ConsoleApp1\15\obj\Debug\15.pdb
