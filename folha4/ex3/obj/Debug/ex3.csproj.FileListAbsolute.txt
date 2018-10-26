@@ -1,5 +1,0 @@
-F:\folha4\ex3\bin\Debug\ex3.exe
-F:\folha4\ex3\bin\Debug\ex3.pdb
-F:\folha4\ex3\obj\Debug\ResolveAssemblyReference.cache
-F:\folha4\ex3\obj\Debug\ex3.exe
-F:\folha4\ex3\obj\Debug\ex3.pdb

@@ -1,5 +1,0 @@
-E:\Documents\Visual Studio 2008\Projects\folha2ex2\ex2\bin\Debug\ex2.exe
-E:\Documents\Visual Studio 2008\Projects\folha2ex2\ex2\bin\Debug\ex2.pdb
-E:\Documents\Visual Studio 2008\Projects\folha2ex2\ex2\obj\Debug\ResolveAssemblyReference.cache
-E:\Documents\Visual Studio 2008\Projects\folha2ex2\ex2\obj\Debug\ex2.exe
-E:\Documents\Visual Studio 2008\Projects\folha2ex2\ex2\obj\Debug\ex2.pdb

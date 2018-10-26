@@ -1,5 +1,0 @@
-F:\folha4\folha4\bin\Debug\folha4.exe
-F:\folha4\folha4\bin\Debug\folha4.pdb
-F:\folha4\folha4\obj\Debug\ResolveAssemblyReference.cache
-F:\folha4\folha4\obj\Debug\folha4.exe
-F:\folha4\folha4\obj\Debug\folha4.pdb

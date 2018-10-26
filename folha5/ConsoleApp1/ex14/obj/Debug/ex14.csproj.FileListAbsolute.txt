@@ -1,7 +1,0 @@
-D:\lpe\exerci\folha5\ConsoleApp1\ex14\bin\Debug\ex14.exe.config
-D:\lpe\exerci\folha5\ConsoleApp1\ex14\bin\Debug\ex14.exe
-D:\lpe\exerci\folha5\ConsoleApp1\ex14\bin\Debug\ex14.pdb
-D:\lpe\exerci\folha5\ConsoleApp1\ex14\obj\Debug\ex14.csproj.CoreCompileInputs.cache
-D:\lpe\exerci\folha5\ConsoleApp1\ex14\obj\Debug\ex14.exe
-D:\lpe\exerci\folha5\ConsoleApp1\ex14\obj\Debug\ex14.pdb
-D:\lpe\exerci\folha5\ConsoleApp1\ex14\obj\Debug\ex14.csprojAssemblyReference.cache

@@ -1,6 +1,0 @@
-D:\lpe\exerci\folha5\ConsoleApp1\ex5\bin\Debug\ex5.exe.config
-D:\lpe\exerci\folha5\ConsoleApp1\ex5\bin\Debug\ex5.exe
-D:\lpe\exerci\folha5\ConsoleApp1\ex5\bin\Debug\ex5.pdb
-D:\lpe\exerci\folha5\ConsoleApp1\ex5\obj\Debug\ex5.csproj.CoreCompileInputs.cache
-D:\lpe\exerci\folha5\ConsoleApp1\ex5\obj\Debug\ex5.exe
-D:\lpe\exerci\folha5\ConsoleApp1\ex5\obj\Debug\ex5.pdb

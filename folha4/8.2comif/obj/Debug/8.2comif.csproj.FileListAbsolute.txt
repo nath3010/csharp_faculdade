@@ -1,7 +1,0 @@
-D:\lpe\exerci\folha4\8.2comif\obj\Debug\8.2comif.csprojAssemblyReference.cache
-D:\lpe\exerci\folha4\8.2comif\obj\Debug\8.2comif.csproj.CoreCompileInputs.cache
-D:\lpe\exerci\folha4\8.2comif\bin\Debug\8.2comif.exe.config
-D:\lpe\exerci\folha4\8.2comif\bin\Debug\8.2comif.exe
-D:\lpe\exerci\folha4\8.2comif\bin\Debug\8.2comif.pdb
-D:\lpe\exerci\folha4\8.2comif\obj\Debug\8.2comif.exe
-D:\lpe\exerci\folha4\8.2comif\obj\Debug\8.2comif.pdb

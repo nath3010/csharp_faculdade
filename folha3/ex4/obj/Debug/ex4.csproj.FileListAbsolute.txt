@@ -1,7 +1,0 @@
-D:\lpe\exerci\folha3\ex4\obj\Debug\ex4.csprojAssemblyReference.cache
-D:\lpe\exerci\folha3\ex4\obj\Debug\ex4.csproj.CoreCompileInputs.cache
-D:\lpe\exerci\folha3\ex4\bin\Debug\ex4.exe.config
-D:\lpe\exerci\folha3\ex4\bin\Debug\ex4.exe
-D:\lpe\exerci\folha3\ex4\bin\Debug\ex4.pdb
-D:\lpe\exerci\folha3\ex4\obj\Debug\ex4.exe
-D:\lpe\exerci\folha3\ex4\obj\Debug\ex4.pdb
