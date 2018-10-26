@@ -1,0 +1,7 @@
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex6\bin\Debug\ex6.exe.config
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex6\bin\Debug\ex6.exe
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex6\bin\Debug\ex6.pdb
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex6\obj\Debug\ex6.csprojAssemblyReference.cache
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex6\obj\Debug\ex6.csproj.CoreCompileInputs.cache
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex6\obj\Debug\ex6.exe
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex6\obj\Debug\ex6.pdb

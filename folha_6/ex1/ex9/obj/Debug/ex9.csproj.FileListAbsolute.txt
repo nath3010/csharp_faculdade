@@ -1,0 +1,7 @@
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex9\bin\Debug\ex9.exe.config
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex9\bin\Debug\ex9.exe
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex9\bin\Debug\ex9.pdb
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex9\obj\Debug\ex9.csprojAssemblyReference.cache
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex9\obj\Debug\ex9.csproj.CoreCompileInputs.cache
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex9\obj\Debug\ex9.exe
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex9\obj\Debug\ex9.pdb
