@@ -11,10 +11,15 @@ namespace PrimeiraAula
     {
         static void Main(string[] args)
         {
+            bool continuar = true;
+            do
+            {
+                Menu menu = new Menu()
+                    .Add("Ex1", () => Ex1.Inicio())
 
-            Menu menu = new Menu()
-                .Add("Ex1", () => Ex1.Inicio());
-            menu.Display();
+                    .Add("Fechar", () => continuar = false);
+                menu.Display();
+            } while (continuar);
 
         }
     }
