@@ -60,7 +60,7 @@ namespace PrimeiraAula.MainMenu
         public Menu Add(Opcao option)
         {
             Opcao.Add(option);
-            return this;
+            return this; //Assim conseguimos adicionar varios .Add em cascata.
         }
 
         public static void Esperar()
