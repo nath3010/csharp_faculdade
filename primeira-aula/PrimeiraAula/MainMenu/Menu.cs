@@ -33,5 +33,11 @@ namespace PrimeiraAula.MainMenu
             Opcao.Add(option);
             return this;
         }
+
+        public static void Esperar()
+        {
+            Console.ReadKey();
+            Console.Clear();
+        }
     }
 }

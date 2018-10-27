@@ -7,26 +7,18 @@ namespace primeira_aula
     {
         static void Main(string[] args)
         {
-            string nome, endereço, cpf, telefone;
-            
-            Console.WriteLine("Escreva o nome:");
-            nome = Console.ReadLine();
-
-            Console.WriteLine("Escreva o telefone:");
-            telefone = Console.ReadLine();
-
-            Console.WriteLine("Escreva o endereço:");
-            endereço = Console.ReadLine();
-
-            Console.WriteLine("Escreva o CPF:");
-            cpf = Console.ReadLine();
+            string nome = Entrada.ReadString("Escreva o nome:");
+            string telefone = Entrada.ReadString("Escreva o telefone:");
+            string endereco = Entrada.ReadString("Escreva o endereço:");
+            string cpf = Entrada.ReadString("Escreva o CPF:");
 
             Console.WriteLine("O nome é: {0}", nome);
             Console.WriteLine("O telefone é: {0}", telefone);
-            Console.WriteLine("O endereço é: {0}", endereço);
+            Console.WriteLine("O endereço é: {0}", endereco);
             Console.WriteLine("O CPF é: {0}", cpf);
 
-            Console.ReadLine();
+            Menu.Esperar();
+
         }
     }
 }
