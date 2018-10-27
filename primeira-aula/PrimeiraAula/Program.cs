@@ -16,7 +16,6 @@ namespace PrimeiraAula
                     .Add("Fechar", () => continuar = false);
                 menu.Display();
             } while (continuar);
-
         }
     }
 }
