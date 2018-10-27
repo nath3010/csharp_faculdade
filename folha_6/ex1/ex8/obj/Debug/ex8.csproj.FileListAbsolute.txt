@@ -1,0 +1,7 @@
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex8\bin\Debug\ex8.exe.config
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex8\bin\Debug\ex8.exe
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex8\bin\Debug\ex8.pdb
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex8\obj\Debug\ex8.csprojAssemblyReference.cache
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex8\obj\Debug\ex8.csproj.CoreCompileInputs.cache
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex8\obj\Debug\ex8.exe
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex8\obj\Debug\ex8.pdb

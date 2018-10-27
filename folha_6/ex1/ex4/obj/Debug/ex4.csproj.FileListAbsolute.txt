@@ -1,0 +1,6 @@
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex4\bin\Debug\ex4.exe.config
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex4\bin\Debug\ex4.exe
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex4\bin\Debug\ex4.pdb
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex4\obj\Debug\ex4.csproj.CoreCompileInputs.cache
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex4\obj\Debug\ex4.exe
+C:\Users\Nathalia Dias\Desktop\Nathalia\folha_6\ex1\ex4\obj\Debug\ex4.pdb
