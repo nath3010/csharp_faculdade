@@ -13,6 +13,7 @@ namespace PrimeiraAula
                 Menu menu = new Menu()
                     .Add("Ex1", () => Ex1.Inicio())
                     .Add("Ex2", () => Ex2.Inicio())
+
                     .Add("Fechar", () => continuar = false);
                 menu.Display();
             } while (continuar);
