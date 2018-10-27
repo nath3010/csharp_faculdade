@@ -1,11 +1,11 @@
 ﻿using System;
 using PrimeiraAula.MainMenu;
 
-namespace primeira_aula
+namespace PrimeiraAula.Exercicios
 {
-    class Ex1
+    public class Ex1
     {
-        static void Main(string[] args)
+        public static void Inicio()
         {
             string nome = Entrada.ReadString("Escreva o nome:");
             string telefone = Entrada.ReadString("Escreva o telefone:");
