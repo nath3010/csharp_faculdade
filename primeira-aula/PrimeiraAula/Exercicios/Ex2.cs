@@ -1,4 +1,5 @@
 ﻿using System;
+using PrimeiraAula.MainMenu;
 
 namespace PrimeiraAula.Exercicios
 {
@@ -6,14 +7,10 @@ namespace PrimeiraAula.Exercicios
     {
         public static void Inicio()
         {
-            int n1, n2, area;
-            Console.WriteLine("Qual e o valor da base do retângulo?");
-            n1 = int.Parse(Console.ReadLine());
+            int numero1 = Entrada.ReadInt("Qual é o valor da base do retângulo?");
+            int numero2 = Entrada.ReadInt("Qual é o valor da altura do retângulo?");
 
-            Console.WriteLine("Qual e o valor da altura do retângulo?");
-            n2 = int.Parse(Console.ReadLine()); //Número usa parse.
-
-            area = n1 * n2;
+            int area = numero1 * numero2;
 
             Console.WriteLine("Área = {0}", area);
 
