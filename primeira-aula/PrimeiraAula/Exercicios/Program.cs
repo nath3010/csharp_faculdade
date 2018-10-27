@@ -1,30 +1,27 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using PrimeiraAula.MainMenu;
 
-namespace ex3
+namespace PrimeiraAula.Exercicios
 {
-    class Program
+    public class Ex3
     {
-        static void Main(string[] args)
-        {
-            int n1, n2, n3, n4, soma;
+        public static void Inicio()
+        { 
+            int numero1, numero2, numero3, numero4, soma;
 
             Console.WriteLine("Digite o primeiro número");
-            n1 = int.Parse(Console.ReadLine());
+            numero1 = int.Parse(Console.ReadLine());
 
             Console.WriteLine("digite o segundo número");
-            n2 = int.Parse(Console.ReadLine());
+            numero2 = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Digite um terceiro número");
-            n3 = int.Parse(Console.ReadLine());
+            numero3 = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Digite um quarto número.");
-            n4 = int.Parse(Console.ReadLine());
+            numero4 = int.Parse(Console.ReadLine());
 
-            soma = n1 + n2 + n3 + n4;
+            soma = numero1 + numero2 + numero3 + numero4;
 
             Console.WriteLine("A soma dos número é: {0}", soma);
 
