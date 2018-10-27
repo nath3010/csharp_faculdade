@@ -41,6 +41,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Exercicios\Ex1.cs" />
+    <Compile Include="Exercicios\Ex2.cs" />
+    <Compile Include="Exercicios\Ex3.cs" />
+    <Compile Include="Exercicios\Ex4.cs" />
     <Compile Include="MainMenu\Entrada.cs" />
     <Compile Include="MainMenu\Menu.cs" />
     <Compile Include="MainMenu\Opcao.cs" />

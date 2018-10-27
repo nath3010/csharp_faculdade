@@ -1,5 +1,5 @@
 ﻿using PrimeiraAula.MainMenu;
-using PrimeiraAula.Exercicios;
+using System;
 
 namespace PrimeiraAula
 {
@@ -11,12 +11,12 @@ namespace PrimeiraAula
             do
             {
                 Menu menu = new Menu()
-                    .Add("Ex1", () => Ex1.Inicio())
-                    .Add("Ex2", () => Ex2.Inicio())
-                    .Add("Ex3", () => Ex3.Inicio())
-
+                    .Add("Ex1", () => Exercicios.Ex1.Inicio())
+                    .Add("Ex2", () => Exercicios.Ex2.Inicio())
+                    .Add("Ex3", () => Exercicios.Ex3.Inicio())
+                    .Add("Ex4", () => Exercicios.Ex4.Inicio())
                     .Add("Fechar", () => continuar = false);
-                menu.Display();
+                menu.Display(ConsoleColor.Cyan, ConsoleColor.Green);
             } while (continuar);
         }
     }

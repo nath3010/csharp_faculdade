@@ -23,6 +23,35 @@ namespace PrimeiraAula.MainMenu
             Opcao[escolha - 1].Metodo();
         }
 
+        public void Display(ConsoleColor cor)
+        {
+            for (int i = 0; i < Opcao.Count; i++)
+            {
+                Console.ForegroundColor = cor;
+                Console.Write("{0}. ", i + 1);
+                Console.ResetColor();
+                Console.WriteLine("{0}", Opcao[i].Nome);
+            }
+            int escolha = Entrada.ReadInt("Escolha uma opção:", min: 1, max: Opcao.Count);
+            Console.Clear();
+            Opcao[escolha - 1].Metodo();
+        }
+
+        public void Display(ConsoleColor cor, ConsoleColor cor2)
+        {
+            for (int i = 0; i < Opcao.Count; i++)
+            {
+                Console.ForegroundColor = cor;
+                Console.Write("{0}. ", i + 1);
+                Console.ForegroundColor = cor2;
+                Console.WriteLine("{0}", Opcao[i].Nome);
+                Console.ResetColor();
+            }
+            int escolha = Entrada.ReadInt("Escolha a opção:", min: 1, max: Opcao.Count);
+            Console.Clear();
+            Opcao[escolha - 1].Metodo();
+        }
+
         public Menu Add(string option, Action callback)
         {
             return Add(new Opcao(option, callback));
