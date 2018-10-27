@@ -7,25 +7,13 @@ namespace PrimeiraAula.Exercicios
     {
         public static void Inicio()
         { 
-            int numero1, numero2, numero3, numero4, soma;
-
-            Console.WriteLine("Digite o primeiro número");
-            numero1 = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("digite o segundo número");
-            numero2 = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Digite um terceiro número");
-            numero3 = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Digite um quarto número.");
-            numero4 = int.Parse(Console.ReadLine());
-
-            soma = numero1 + numero2 + numero3 + numero4;
-
+            int numero1 = Entrada.ReadInt("Digite o primeiro número:");
+            int numero2 = Entrada.ReadInt("Digite o segundo número:");
+            int numero3 = Entrada.ReadInt("Digite o terceiro número:");
+            int numero4 = Entrada.ReadInt("Digite o quarto número:");
+            int soma = numero1 + numero2 + numero3 + numero4;
             Console.WriteLine("A soma dos número é: {0}", soma);
-
-            Console.ReadLine(); //Para a pessoa clicar em uma tecla e fechar 
+            Menu.Esperar();
         }
     }
 }
