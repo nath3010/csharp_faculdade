@@ -27,9 +27,7 @@ namespace PrimeiraAula.MainMenu
         {
             for (int i = 0; i < Opcao.Count; i++)
             {
-                Console.ForegroundColor = cor;
-                Console.Write("{0}. ", i + 1);
-                Console.ResetColor();
+                Saida.Write(cor, $"{i + 1}. ");
                 Console.WriteLine("{0}", Opcao[i].Nome);
             }
             int escolha = Entrada.ReadInt("Escolha uma opção:", min: 1, max: Opcao.Count);
@@ -41,11 +39,8 @@ namespace PrimeiraAula.MainMenu
         {
             for (int i = 0; i < Opcao.Count; i++)
             {
-                Console.ForegroundColor = cor;
-                Console.Write("{0}. ", i + 1);
-                Console.ForegroundColor = cor2;
-                Console.WriteLine("{0}", Opcao[i].Nome);
-                Console.ResetColor();
+                Saida.Write(cor, $"{i + 1}. ");
+                Saida.Write(cor2, $"{Opcao[i].Nome}\n");
             }
             int escolha = Entrada.ReadInt("Escolha a opção:", min: 1, max: Opcao.Count);
             Console.Clear();
