@@ -1,0 +1,7 @@
+E:\csharp_faculdade\folha7\ex9\bin\Debug\ex9.exe.config
+E:\csharp_faculdade\folha7\ex9\bin\Debug\ex9.exe
+E:\csharp_faculdade\folha7\ex9\bin\Debug\ex9.pdb
+E:\csharp_faculdade\folha7\ex9\obj\Debug\ex9.csproj.CoreCompileInputs.cache
+E:\csharp_faculdade\folha7\ex9\obj\Debug\ex9.exe
+E:\csharp_faculdade\folha7\ex9\obj\Debug\ex9.pdb
+E:\csharp_faculdade\folha7\ex9\obj\Debug\ex9.csprojAssemblyReference.cache

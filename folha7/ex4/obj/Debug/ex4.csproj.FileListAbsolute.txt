@@ -1,0 +1,6 @@
+E:\csharp_faculdade\folha7\ex4\bin\Debug\ex4.exe.config
+E:\csharp_faculdade\folha7\ex4\bin\Debug\ex4.exe
+E:\csharp_faculdade\folha7\ex4\bin\Debug\ex4.pdb
+E:\csharp_faculdade\folha7\ex4\obj\Debug\ex4.csproj.CoreCompileInputs.cache
+E:\csharp_faculdade\folha7\ex4\obj\Debug\ex4.exe
+E:\csharp_faculdade\folha7\ex4\obj\Debug\ex4.pdb

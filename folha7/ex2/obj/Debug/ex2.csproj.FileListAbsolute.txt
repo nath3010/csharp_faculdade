@@ -1,0 +1,7 @@
+E:\csharp_faculdade\folha7\ex2\bin\Debug\ex2.exe.config
+E:\csharp_faculdade\folha7\ex2\bin\Debug\ex2.exe
+E:\csharp_faculdade\folha7\ex2\bin\Debug\ex2.pdb
+E:\csharp_faculdade\folha7\ex2\obj\Debug\ex2.csprojAssemblyReference.cache
+E:\csharp_faculdade\folha7\ex2\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+E:\csharp_faculdade\folha7\ex2\obj\Debug\ex2.exe
+E:\csharp_faculdade\folha7\ex2\obj\Debug\ex2.pdb

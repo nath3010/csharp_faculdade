@@ -1,0 +1,7 @@
+E:\csharp_faculdade\folha7\teste\obj\Debug\teste.csprojAssemblyReference.cache
+E:\csharp_faculdade\folha7\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+E:\csharp_faculdade\folha7\teste\bin\Debug\teste.exe.config
+E:\csharp_faculdade\folha7\teste\bin\Debug\teste.exe
+E:\csharp_faculdade\folha7\teste\bin\Debug\teste.pdb
+E:\csharp_faculdade\folha7\teste\obj\Debug\teste.exe
+E:\csharp_faculdade\folha7\teste\obj\Debug\teste.pdb
